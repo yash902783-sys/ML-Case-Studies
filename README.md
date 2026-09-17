@@ -9,12 +9,16 @@ This repository contains two machine learning case studies implemented using Pyt
 * **Techniques:** Data preprocessing, threshold tuning, ROC-AUC, confusion matrix, feature analysis.
 * **Notebook:** `Case-Study-1-Diabetes/Case_Study_1.ipynb`
 
+[![Open Case Study 1 in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yash902783-sys/ML-Case-Studies/blob/main/Case-Study-1-Diabetes/Case_Study_1.ipynb)
+
 ## Case Study 2 — Credit Card Fraud Detection
 
 * **Problem:** Detect fraudulent credit card transactions.
 * **Model:** XGBoost
 * **Techniques:** SMOTE, model evaluation, threshold tuning, precision-recall analysis, feature importance.
-* **Notebook:** `Case-Study-2-Credit-Card-Fraud/Case_Study_2.ipynb`
+* **Notebook:** `Case-Study-2-Credit-Card-Fraud/Case_Study_2.ipynb
+
+[![Open Case Study 2 in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yash902783-sys/ML-Case-Studies/blob/main/Case-Study-2-Credit-Card-Fraud/Case_Study_2.ipynb)
 
 ## Tools & Libraries
 
